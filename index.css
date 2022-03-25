@@ -1,0 +1,38 @@
+
+
+#logo-white{
+    width:100px;
+    height: 60px;
+    
+    background-color:  orangered;
+    border: 1px solid orangered;
+    border-bottom: 20px;
+}
+
+header{
+    display:flex;
+    justify-content: space-between;
+    margin:20px ;
+    border-width:10px;
+    border:1px solid black;
+}
+ 
+.nav-items{
+    padding: 20px;
+    position:relative;
+    top:15px; 
+  
+}
+
+.dropdown{
+    width:50px;
+}
+.box{
+    width:20px;
+    height: 30px;
+    border-color:  orangered;
+    border: 1px solid orangered;
+}
+
+
+   
